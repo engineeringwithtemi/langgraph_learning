@@ -593,7 +593,7 @@ Mark your progress here:
 | Task 7 | [x] Completed | |
 | Task 8 | [x] Completed | |
 | Task 9 | [x] Completed | Parallel fan-out/fan-in, 1.5s execution |
-| Task 10 | ⬜ Not Started | |
+| Task 10 | [x] Completed | Subgraphs with state transformation |
 | Task 11 | ⬜ Not Started | |
 | Task 12 | ⬜ Not Started | |
 | Task 13 | ⬜ Not Started | |
