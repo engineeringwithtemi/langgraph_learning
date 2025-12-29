@@ -591,8 +591,8 @@ Mark your progress here:
 | Task 5 | [x] Completed | |
 | Task 6 | [x] Completed | Worked via short-circuit (score 9), missing init fix |
 | Task 7 | [x] Completed | |
-| Task 8 | [/] In Progress | |
-| Task 9 | ⬜ Not Started | |
+| Task 8 | [x] Completed | |
+| Task 9 | [x] Completed | Parallel fan-out/fan-in, 1.5s execution |
 | Task 10 | ⬜ Not Started | |
 | Task 11 | ⬜ Not Started | |
 | Task 12 | ⬜ Not Started | |
